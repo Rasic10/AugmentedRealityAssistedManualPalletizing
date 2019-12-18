@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="munchmallow.Left" size="0.030000 0.150000"/>
+        <ImageTarget name="munchmallow.Bottom" size="0.100000 0.030007"/>
+        <ImageTarget name="munchmallow.Top" size="0.100000 0.030007"/>
+        <ImageTarget name="munchmallow.Back" size="0.100000 0.150000"/>
+        <ImageTarget name="munchmallow.Right" size="0.030000 0.150000"/>
+        <ImageTarget name="munchmallow.Front" size="0.100000 0.150000"/>
+        <MultiTarget name="munchmallow">
+            <Part name="munchmallow.Left" translation="-0.05000000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="munchmallow.Right" translation="0.05000000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="munchmallow.Front" translation="0 0 0.014999999664723873" rotation="AD: 1 0 0 0"/>
+            <Part name="munchmallow.Back" translation="0 0 -0.014999999664723873" rotation="AD: 0 1 0 180"/>
+            <Part name="munchmallow.Top" translation="0 0.07500000298023224 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="munchmallow.Bottom" translation="0 -0.07500000298023224 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
